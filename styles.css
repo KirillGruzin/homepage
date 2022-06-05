@@ -217,7 +217,9 @@ body {
 .additional-info {
   flex: 1 1 40%;
 }
-
+.additional-info__education-university{
+margin-bottom: 10px;
+}
 .additional-info__education {
   margin-bottom: 20px;
 }
@@ -257,4 +259,5 @@ body {
 
 .additional-info__languages-item {
   color: var(--secondary-text-color);
+  margin-bottom: 10px;
 }
